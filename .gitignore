@@ -1,0 +1,15 @@
+# Ignorar pastas do Webots que não queremos versionar
+/worlds/
+/plugins/
+/libraries/
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+*.pyc
+__pycache__/
+
+# Mantemos apenas estas pastas
+!controllers/
+!CC7711-WeBots/
+!protos/
