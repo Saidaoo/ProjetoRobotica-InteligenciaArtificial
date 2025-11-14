@@ -7,11 +7,7 @@ O objetivo deste projeto é programar um robô para encontrar a caixa de madeira
 
 ## Observações do Projeto
 - O robô deve **procurar a caixa leve** e **parar de procurar** ao encontrá-la.  
-- Quando encontrar a caixa, o robô deve **ficar girando sobre o próprio eixo**.  
-- O relatório deve incluir:
-  - Link para o **código fonte** no GitHub.  
-  - Um **vídeo de até 3 minutos** mostrando o robô procurando e encontrando a caixa (pode ser acelerado).  
-  - Nome de todos os integrantes do grupo.
+- Quando encontrar a caixa, o robô deve **ficar girando sobre o próprio eixo**. 
 
 ---
 
