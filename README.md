@@ -1,7 +1,7 @@
 # Projeto Robótica: Encontrar a Caixa de Madeira "Leve"
 
 ## Objetivo
-O objetivo deste projeto é programar um robô para encontrar a caixa de madeira "leve" em um ambiente simulado ou real.
+O objetivo deste projeto é programar um robô para encontrar a caixa de madeira "leve" em um ambiente simulado.
 
 ---
 
